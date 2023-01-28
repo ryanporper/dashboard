@@ -10,8 +10,8 @@
 #
 **Frontend**
 - React.js
+- Redux Toolkit 
+- Redux ToolkitQuery
 - Material UI
 - Material UI Datagrid
 - Nivo
-- Redux Toolkit 
-- Redux ToolkitQuery
