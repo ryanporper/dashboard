@@ -1,4 +1,4 @@
-# Admin Dashboard
+# Statify - Dashboard App
 
 ## This is a work in progress
 
