@@ -18,6 +18,9 @@
 
 # Media
 
+## Dark/Light Mode Toggle
+![dark mode](https://i.imgur.com/jVb7Jsz.gif)
+
 ## Dashboard
 ![Dashboard](https://i.imgur.com/GX0iMa1.png)
 
