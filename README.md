@@ -1,6 +1,9 @@
 # Statify - Dashboard App
 
-## This is a work in progress
+## Full-stack dashboard app focused on the backend
+
+## Check out the [Live site](https://statify-dashboard.onrender.com/) 
+### May have a little bit of loading time on first visit
 
 ## Built using: 
 **Backend**
