@@ -2,8 +2,7 @@
 
 ## Full-stack dashboard app focused on the backend
 
-## Check out the [Live site](https://statify-dashboard.onrender.com/) 
-### May have a little bit of loading time on first visit
+## Check out the [Live site](https://statify-dashboard.onrender.com/) (may have a little bit of loading time on first visit)
 
 ## Built using: 
 **Backend**
