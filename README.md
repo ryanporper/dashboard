@@ -1,6 +1,6 @@
 # Statify - Full-Stack Dashboard App
 
-## Check out the [Live site](https://statify-dashboard.onrender.com/) (may have a little bit of loading time on first visit)
+## Check out the [Live site](https://statify-dashboard.onrender.com/) (may have a little bit of loading time on first visit due to host sleeping after 15 mins of inactivity)
 
 ## Built using: 
 **Backend**
